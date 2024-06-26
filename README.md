@@ -15,6 +15,10 @@
 ## 논문 :
 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10532185">모빌리티 시장 속 새로운 비단길, 'TAXIO(타시오)'</a>
 
+## 주 사용언어:
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Kwanwoo-park)
+
+## 메일 :
 <div align="center">
   <h3>메일</h3>
   <a href="mailto:akakslslzz@naver.com"><img src="https://img.shields.io/badge/Naver-6DB33F?style=for-the-badge&logo=Naver&logoColor=white" /></a>
