@@ -14,6 +14,7 @@
 
 ## 자격증 : 
 - 정보처리산업기사
+- 정보처리기사(필기 합)
 
 ## 논문 :
 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10532185">모빌리티 시장 속 새로운 비단길, 'TAXIO(타시오)'</a>
